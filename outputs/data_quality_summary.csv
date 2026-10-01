@@ -1,0 +1,2 @@
+sales_rows,sales_skus,inventory_rows,inventory_skus,sku_master_rows,calendar_rows,sales_duplicate_sku_days,inventory_duplicate_snapshots,inventory_skus_not_in_master,sales_skus_not_in_master,sales_missing_values,inventory_missing_values
+36550,50,4800,200,50,731,0,0,150,0,32800,0
